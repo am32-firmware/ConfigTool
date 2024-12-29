@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>flash_application_test.bin</file>
+        <file>FullF051Bldc.bin</file>
+    </qresource>
+</RCC>

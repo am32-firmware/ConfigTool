@@ -1,0 +1,14 @@
+BF_ROOTLOADER.cpp
+BF_ROOTLOADER.h
+SerialPortConnector.pro
+defaults.h
+fourwayif.cpp
+fourwayif.h
+main.cpp
+mspif.cpp
+outconsole.h
+serialportconnector.qrc
+textfinder.qrc
+widget.cpp
+widget.h
+widget.ui
